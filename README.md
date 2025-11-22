@@ -1,5 +1,5 @@
 # Waveform Audio Player
-This project is an audio player with waveform visualization, developed in React, TypeScript and [wavesurfer](https://github.com/katspaugh/wavesurfer.js).
+This project is an audio player with waveform visualization, developed in React, TypeScript and [wavesurfer](https://github.com/katspaugh/wavesurfer.js). It's perfect for chat messages on short widths.
 
 Just copy the [`player.tsx`](./src/components/player.tsx) file and play it in your project,  
 or if you want, clone this entire repository and feel free.
