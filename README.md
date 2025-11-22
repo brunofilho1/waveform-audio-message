@@ -45,7 +45,3 @@ The app will be available in your browser once launched.
 ## 🌐 Live preview
 [https://waveform-audio-message.vercel.app/](https://waveform-audio-message.vercel.app/)
 
-## 📝 Licença MIT
-
-This project is under the MIT license. See the [LICENSE](LICENSE) file for more details.
-
